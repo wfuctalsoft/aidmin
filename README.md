@@ -1,7 +1,7 @@
 # 🤖 AIdmin
 
-[![Experimental](https://img.shields.io/badge/Status-Experimental-orange.svg)](https://github.com/yourname/aidmin)
-[![Russian](https://img.shields.io/badge/Language-Russian-blue.svg)](https://github.com/yourname/aidmin)
+[![Experimental](https://img.shields.io/badge/Status-Experimental-orange.svg)](https://github.com/wfuctalsoft/aidmin)
+[![Russian](https://img.shields.io/badge/Language-Russian-blue.svg)](https://github.com/wfuctalsoft/aidmin)
 
 > ⚠️ Проект создан в экспериментальных целях ("proof-of-concept") и для личного интереса. Не является production-решением. Код предоставляется "as is", без гарантий. Использование в "боевых" условиях не рекомендуется.
 
